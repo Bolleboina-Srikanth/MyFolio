@@ -148,7 +148,7 @@ html {
 
 
 .project-name {
-    /* margin-left: 25px; */
+    margin-left: 25px;
     position: absolute;
     bottom: 0; /* Start below the container */
     left: 0;
