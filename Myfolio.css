@@ -20,7 +20,7 @@ scroll-margin-top: 16vh;
     height: 100%;
     left: 0;
     top: 0;
-    background: url('http://127.0.0.1:5501/Images/istockphoto-1296308898-612x612.jpg') left top repeat;
+    background: url('istockphoto-1296308898-612x612.jpg') left top repeat;
     background-size: cover;
     filter: blur(4px);
     -webkit-filter: blur(4px);
